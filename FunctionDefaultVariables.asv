@@ -1,6 +1,0 @@
-% inputname: Variable name of function input
-% mfilename: File name of currently running function
-% nargin: Number of function input argugments
-% nargout: Number of function output arguments
-% varargin: Variable length input argument list
-% varargout: Variable length output argument list

@@ -1,4 +1,0 @@
-function C = F2C(F) %#ok<*INUSD>
-F = input("Temperaure in F: ");
-while  isempty(C) == 0
-    F 
